@@ -38,14 +38,14 @@ const words = {
 };
 
 const getListNoun = () => words.nouns;
-console.log(getListNoun())
+//console.log(getListNoun())
 
 const getListVerb = () => words.verbs;
 
-console.log(getListVerb())
+//console.log(getListVerb())
 
 const getListAdjective = () => words.adjectives;
-console.log(getListAdjective())
+//console.log(getListAdjective())
 
 export default {
   getListNoun,
