@@ -14,7 +14,7 @@ const App = () => (
     <h3>More Changes!</h3>
     <h2>Start editing to see some magc happen {'\u2728'}</h2>
     <h1>Rachel Changed something here</h1>
-    <p>asodmfaklsdfjasldfjasldkf</p>
+    <p>Cody made further changes.</p>
   </div>
 );
 
