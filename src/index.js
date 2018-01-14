@@ -10,6 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="CodeSandbox" />
+    <h1>Mike was here</h1>
     <h1>I WANT TO CONTRIBUTE!!!</h1>
     <h3>More Changes!</h3>
     <h2>Start editing to see some magc happen {'\u2728'}</h2>
