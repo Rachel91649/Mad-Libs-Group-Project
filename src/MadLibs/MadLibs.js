@@ -17,7 +17,6 @@ class MadLibs extends React.Component {
     };
   }
 
-
   //handleGenerateMadlib
   //This is a button that will generate the madLib with chosen words(held in state)
   //and render the completed madlib to the page
