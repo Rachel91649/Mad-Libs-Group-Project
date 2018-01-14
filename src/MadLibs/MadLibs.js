@@ -1,5 +1,5 @@
 import React from "react";
-import MadLibsAPI from "./MadLibs/MabLibsAPI"
+import MadLibsAPI from "./MadLibsAPI"
 
 
 class MadLibs extends React.Component {
