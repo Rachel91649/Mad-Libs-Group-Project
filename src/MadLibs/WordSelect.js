@@ -8,7 +8,7 @@ const WordSelect = ({nouns, verbs, adjs, onChange}) => (
         <option name="noun1" value={noun}>{noun}</option>
       ))} 
     </select>
-    <select id="verb" onChange={onChange}>
+    <select id="verbs" onChange={onChange}>
       {verbs.map(verb =>(
         <option value={verb}>{verb}</option>
       ))}

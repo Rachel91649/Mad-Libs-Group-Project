@@ -42,7 +42,9 @@ class MadLibs extends React.Component {
   //handle wordSelect
   handleWordSelect = e => {
     this.setState({
-      noun1: e.target.value
+    [e.target.id]: e.target.value,
+   
+
     });
   }
 
@@ -68,9 +70,11 @@ class MadLibs extends React.Component {
   }
 
   
-  
   //Main Component Render
   render() {
+    console.log (this.state.noun1)
+   
+
     const { noun1 } = this.state;
     return (
       <div>
