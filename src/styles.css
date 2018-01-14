@@ -1,0 +1,9 @@
+body{
+  background-image: radial-gradient(circle, #93c53c, #b3a900, #cd8700, #e15d00, #ea172c);
+  text-align: center;
+  font-size: 20px;
+}
+
+img{
+  height: 450px;
+}

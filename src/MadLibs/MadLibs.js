@@ -30,7 +30,7 @@ class MadLibs extends React.Component {
 
   //handle wordSelect
   
-=======
+
  
 
   //handleGenerateMadlib

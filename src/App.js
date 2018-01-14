@@ -4,6 +4,7 @@ import React from "react";
 import { Link, Route, Switch } from "react-router-dom";
 import Home from "../home";
 import MadLibs from "./MadLibs/MadLibs"
+import "./styles.css"
 
 const App = () => (
   <div>
