@@ -13,7 +13,9 @@ class MadLibs extends React.Component {
     };
   }
 
-const 
+
+
+
 
   //componentDidMount
   //This will get the words from API calls
