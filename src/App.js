@@ -10,6 +10,7 @@ const App = () => (
   <div>
     <nav>
       <Link to="/">Home</Link>
+      {" "}
       <Link to="/madlibs">Mad Libs</Link>
     </nav>
     <Switch>
