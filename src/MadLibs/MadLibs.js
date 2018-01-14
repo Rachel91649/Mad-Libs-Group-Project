@@ -15,6 +15,22 @@ class MadLibs extends React.Component {
       adj: ""
     };
   }
+
+
+
+
+
+
+  //componentDidMount
+  //This will get the words from API calls
+
+  //user selects words from dropdown boxes
+  //selected words update the appropriate state
+  
+
+  //handle wordSelect
+  
+=======
  
 
   //handleGenerateMadlib
