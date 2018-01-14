@@ -7,8 +7,8 @@ const MadLibsC = ({ noun1, noun2, verbs, adj }) => (
 
     <h2>The Story That Starts Sour And Ends Sweet ! </h2>
 
-    <p> Sometimes, you don't only need to use your {noun1} to know how to {verbs}
-      {" "}a thing but you need your {noun2} to see if it's  {adj} </p>
+    <p id="para"> Sometimes, you don't only need to use your {noun1} to know how to {verbs}
+      {" "}a thing, but you need your {noun2} to see if it's  {adj}. </p>
 
   </div>
 )
